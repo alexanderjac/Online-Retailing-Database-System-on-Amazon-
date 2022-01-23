@@ -1,15 +1,3 @@
-ReadMe File for Online Retail Management System
-
-
-
-
-—-Contributors—-
-
-Devashree Kulkarni 
-Tejal Tandel
-Jackson Alexander
-Manisha Iyer
-
 
 
 —-Overview—
@@ -39,11 +27,3 @@ Once the respective environments are setup, import the scripts from your local m
 The database's scope relates to the database's intended functionality. The database's basic table structure, linkages, and indexes are all dependent on the retail system platform's capability. Identifying the retail system's functionality is the most important concern while developing the database. Additional functions, in addition to order tracking and inventory/logistics management, are nice-to-have features for the retail management platform that improve the user experience for both end-users (customers) and administrators (the business). Marketing functions, help desk and support, complex analytics, and third-party connectors are among the additional features.
 
 
-
-—-Contact Us—-
-
-You can reach us via email at any of the four following emails:
-kulkarni.de@northeastern.edu 
-tandel.t@northeastern.edu
-alexander.jac@northeastern.edu
-iyer.ma@northeastern.edu 
