@@ -32,6 +32,11 @@ Once the respective environments are setup, import the scripts from your local m
 —-Scope:—-
 
 The database's scope relates to the database's intended functionality. The database's basic table structure, linkages, and indexes are all dependent on the retail system platform's capability. Identifying the retail system's functionality is the most important concern while developing the database. Additional functions, in addition to order tracking and inventory/logistics management, are nice-to-have features for the retail management platform that improve the user experience for both end-users (customers) and administrators (the business). Marketing functions, help desk and support, complex analytics, and third-party connectors are among the additional features.
+
+
+
+
+
 ![P4 Final ERD](https://user-images.githubusercontent.com/90269638/153792127-326cf5fd-ea8f-4d0e-983d-3397f92aff7e.jpg)
 
 
